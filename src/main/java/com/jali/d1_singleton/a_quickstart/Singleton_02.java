@@ -1,4 +1,4 @@
-package com.jali.d1_singleton.a_qucikstart;
+package com.jali.d1_singleton.a_quickstart;
 
 /**
  * 单例模式：饿汉式 - 静态代码块实现
