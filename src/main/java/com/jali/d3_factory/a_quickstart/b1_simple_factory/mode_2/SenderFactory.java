@@ -1,4 +1,4 @@
-package com.jali.d3_factory.a_quickstart.simple_factory.mode_2;
+package com.jali.d3_factory.a_quickstart.b1_simple_factory.mode_2;
 
 /**
  * @author lijiang
